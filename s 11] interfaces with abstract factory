@@ -1,0 +1,89 @@
+[33mcommit c6d51460f79adcfb013e2f1056c1c659c9e9d957[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: evillamayor <emanuel.villamayor@wearepsh.com>
+Date:   Tue Oct 4 23:05:15 2022 -0300
+
+    added notes until class 14
+
+[33mcommit ba37e7c8c81282d21e782ce773a912bb87444069[m
+Author: evillamayor <emanuel.villamayor@wearepsh.com>
+Date:   Tue Oct 4 22:47:17 2022 -0300
+
+    cleaned files
+
+[33mcommit ee85fe8247a80cd0589eb80a6d722b638202dd49[m
+Author: evillamayor <emanuel.villamayor@wearepsh.com>
+Date:   Tue Oct 4 00:26:25 2022 -0300
+
+    [Class 14] variadic functions and functions with return names
+
+[33mcommit f3c8c26898f67aed7140538a7c141e2fcd04b27a[m
+Author: evillamayor <emanuel.villamayor@wearepsh.com>
+Date:   Tue Oct 4 00:12:29 2022 -0300
+
+    [Class 13] anonymous functions
+
+[33mcommit c333469dd942dcaac424839bea7bde7147c02a77[m
+Author: evillamayor <emanuel.villamayor@wearepsh.com>
+Date:   Mon Oct 3 23:59:26 2022 -0300
+
+    [Class 12] interfaces with abstract factory final
+
+[33mcommit 824324d4ae5593a316948aeb05a3ddc565417d1a[m
+Author: evillamayor <emanuel.villamayor@wearepsh.com>
+Date:   Mon Oct 3 23:47:08 2022 -0300
+
+    [Class 11] interfaces with abstract factory
+
+[33mcommit 11157f6c70450c13f30d94da0b492dbc75e27c13[m
+Author: evillamayor <emanuel.villamayor@wearepsh.com>
+Date:   Mon Oct 3 23:35:10 2022 -0300
+
+    [Class 10] interfaces
+
+[33mcommit 9bd34a038916deb4c2b2fd8bf17dabc4d62dccf0[m
+Author: evillamayor <emanuel.villamayor@wearepsh.com>
+Date:   Mon Oct 3 23:15:53 2022 -0300
+
+    [Class 9] inheritance
+
+[33mcommit 608a5ee87fee107925df9ec303c74ad6c6a276c6[m
+Author: evillamayor <emanuel.villamayor@wearepsh.com>
+Date:   Wed Sep 28 23:52:45 2022 -0300
+
+    updated readme until class 8
+
+[33mcommit bda2837adaebdbed50a589148432242b2e1fe52e[m
+Author: evillamayor <emanuel.villamayor@wearepsh.com>
+Date:   Wed Sep 28 23:49:10 2022 -0300
+
+    [Class 8] constructores
+
+[33mcommit 268f792514caa7dd6c1638724296aface1310786[m
+Author: evillamayor <emanuel.villamayor@wearepsh.com>
+Date:   Wed Sep 28 23:30:24 2022 -0300
+
+    [Class 7] methods and functions
+
+[33mcommit 3cd4b7087659f1ebdf477a3e2b4dab7a5ab005d8[m
+Author: evillamayor <emanuel.villamayor@wearepsh.com>
+Date:   Wed Sep 28 23:17:52 2022 -0300
+
+    [Class 6] structs vs classes
+
+[33mcommit 3a864f8782b57f1f5809828534eb41202df65949[m
+Author: evillamayor <emanuel.villamayor@wearepsh.com>
+Date:   Wed Sep 28 23:00:06 2022 -0300
+
+    [Class 4] General summary: go routines and pointers
+
+[33mcommit 62c347a41ccde98c421e88eacc187591d0c39b3e[m
+Author: evillamayor <emanuel.villamayor@wearepsh.com>
+Date:   Wed Sep 28 22:47:53 2022 -0300
+
+    [Class 3] General summary
+
+[33mcommit 17a11849c544c305010e56d7458a76acb02c8842[m
+Author: emavillamayorpsh <87021840+emavillamayorpsh@users.noreply.github.com>
+Date:   Wed Sep 28 22:28:04 2022 -0300
+
+    Initial commit
