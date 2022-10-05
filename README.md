@@ -13,3 +13,7 @@ Curso de Go Intermedio: Programación Orientada a Objetos y Concurrencia: https:
   * Clase 12: Implementacion final de Abstract Factory
   * Clase 13: Funciones Anonimas
   * Clase 14: Funciones variadicas y retornos con nombre
+* Go modules
+  * Clase 15: Como utilizar go modules
+  * Clase 16: Creando nuestro modulo
+* Testing
